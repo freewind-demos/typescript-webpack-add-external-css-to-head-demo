@@ -3,11 +3,11 @@
     "demo": "webpack-dev-server --open"
   },
   "dependencies": {
-    "jquery": "3.4.1"
+    "loadjs": "4.0.1"
   },
   "devDependencies": {
     "@types/html-webpack-plugin": "3.2.1",
-    "@types/jquery": "3.3.31",
+    "@types/loadjs": "3.5.0",
     "@types/webpack": "4.39.1",
     "css-loader": "3.2.0",
     "html-webpack-plugin": "3.2.0",
